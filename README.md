@@ -1,4 +1,4 @@
-# Spetra_Estimators
+# Spetra Estimators
 
 The codes available here can be used to estimate different statistics of the matter density field in an N-body simulation using different window functions (NGP, CIC, spherical, or exponential) with different smoothing scales. The codes compute the spectra for the overdensity field delta, the overdensity field with the window function deconvolved, the non-linear field A=ln(1+delta), and the marked field m.
 
