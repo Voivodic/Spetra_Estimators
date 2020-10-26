@@ -18,4 +18,8 @@ The complete list of input options for each code is given by the code when start
 
 The Density_Grid.c assumes a file with particles where the first line has the total number of particles and the other lines have the 3D position and velocity for each particle. The expected format for this file is C binary.
 
+The codes here need the library FFTW3 to work.
+
 If you use any of the codes present here, please cite the paper: -----.
+
+Please, contact me if you have any question: rodrigo.voivodic@usp.br
